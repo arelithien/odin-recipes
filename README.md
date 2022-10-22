@@ -1,6 +1,7 @@
 # **odin-recipes**
 ---
 - HTML
+- CSS
 
 ## DESCRIPTION
 ---
